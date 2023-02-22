@@ -1,0 +1,11 @@
+node_modules
+.DS_Store
+dist
+dist-ssr
+*.local
+.replit
+replit_zip_error_log.txt
+replit.nix
+.upm
+.cache
+backup
